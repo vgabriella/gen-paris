@@ -1,1 +1,3 @@
 Git du local au distant
+
+Ici commence le travail collaboratif
